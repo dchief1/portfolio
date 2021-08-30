@@ -7,7 +7,14 @@ import { LeftSection } from './HeroStyles';
 const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
-      <SectionTitle></SectionTitle>
+      <SectionTitle main center>
+        Kelechi <br />
+        Web Developer.
+      </SectionTitle>
+      <SectionText>
+        Interactive Front-end Developer
+      </SectionText>
+      <Button onClick={() => window.location= 'https://google.com'}>Let's talk</Button>
     </LeftSection>
   </Section>
 );

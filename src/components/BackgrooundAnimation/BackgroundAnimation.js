@@ -327,7 +327,7 @@ const BackgroundAnimation = () => (
         <linearGradient
           id="paint9_linear"
           x1="515.943"
-          y1="288.238"
+          y1="288.238" 
           x2="541.339"
           y2="291.454"
           gradientUnits="userSpaceOnUse"
