@@ -4,8 +4,8 @@ export const projects = [
     description: "Checkref is a digital automated reference checking tool. It simplifies and streamlines, the reference checking process thereby increasing the validity and compliance of your Employee reference checks.",
       image: '/images/1.png',
       tags: ['React', 'Next.js', 'Typescript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://checkref.co/',
+    visit: 'https://checkref.co/',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"This project helps you send money, save money, make seamless payments and access credit anywhere and everytime",
     image: '/images/2.png',
     tags: ['React', 'JavaScript', 'Tailwind'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://moyalo.ng/',
+    visit: 'https://moyalo.ng/',
     id: 1,
   },
   {
