@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Real Estate',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "This is a contact list app built with React, hooks and Tailwind CSS. I also practice how to work with APIs in React with the react-fetch-hook npm package. The prerequisite for this project is knowledge of React and React hooks.",
       image: '/images/3.png',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
