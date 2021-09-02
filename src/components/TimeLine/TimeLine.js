@@ -43,7 +43,9 @@ const Timeline = () => {
   }, []);
 
   return (
-    <Section id="about">
+    <Section id="about"> 
+      <SectionDivider />
+      <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         Emmanuel Kelechi Igwesi is an Ardent Passionate Web Developer with very good knowledge in html/css

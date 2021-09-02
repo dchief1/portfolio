@@ -52,7 +52,7 @@ export const DropDownItem = styled.a`
 export const DropDownIcon = styled.div`
   width: 32px;
   height: 32px;
-  margin-right: 16px;
+  margin-right: 16px; 
 `
 
 export const DropDownTextContainer = styled.div`
