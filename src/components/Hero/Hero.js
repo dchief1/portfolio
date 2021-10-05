@@ -8,11 +8,11 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Kelechi <br />
+        Kelechi <br />  
         Web Developer.
       </SectionTitle>
       <SectionText>
-        Interactive Front-end Developer
+        Interactive Web Developer
       </SectionText>
       <Button onClick={() => window.location= 'mailto:igwesiemmanuel4@gmail.com'}>Let's talk</Button>
     </LeftSection>

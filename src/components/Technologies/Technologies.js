@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I'm a very interactive frontend developer with very good knowledge in javascript. <br />
+      I'm a very interactive web developer with very good knowledge in javascript. <br />
       I love solving challenging problems and advancing my skills.
     </SectionText>
     <List>
@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js, Next.js, Tailwind css, 
+            React.js, Next.js, Tailwind css, RESTful API, Git,
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,7 +29,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Firebase
+            Firebase, Node.js, Express.js, POSTgreSQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
