@@ -12,7 +12,7 @@ const Hero = (props) => (
         Web Developer.
       </SectionTitle>
       <SectionText>
-        Interactive Web Developer
+        Interactive Front-end Developer
       </SectionText>
       <Button onClick={() => window.location= 'mailto:igwesiemmanuel4@gmail.com'}>Let's talk</Button>
     </LeftSection>

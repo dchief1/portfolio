@@ -48,9 +48,10 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Emmanuel Kelechi Igwesi is an Ardent Passionate Web Developer with very good knowledge in html/css
-        and  javascript with 1 year of experience in web development and systems design. He loves the
-        concept of building web applications, he loves solving challenging problems and advancing his skills. 
+        I'm a  Knowledgeable Front End Developer adept at creating
+          successful websites that meet customer needs. Specializing in
+          collaborating with effectual customers to gather requirements,
+           produce plans and improve designs for usability and functionality. Fully proficient in React, Javascript and CSS.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll} >
         <>
