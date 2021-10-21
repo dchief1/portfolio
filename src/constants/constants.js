@@ -3,7 +3,7 @@ export const projects = [
     title: 'checkref',
     description: "Checkref is a digital automated reference checking tool. It simplifies and streamlines, the reference checking process thereby increasing the validity and compliance of your Employee reference checks.",
       image: '/images/1.png',
-      tags: ['React', 'Next.js', 'Typescript'],
+      tags: ['React', 'Next.js'],
     source: 'https://checkref.co/',
     visit: 'https://checkref.co/',
     id: 0,
