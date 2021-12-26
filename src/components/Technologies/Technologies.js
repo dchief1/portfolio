@@ -1,6 +1,6 @@
 import React from 'react';
 import { DiFirebase, DiReact, DiZend, } from 'react-icons/di';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
@@ -8,10 +8,6 @@ const Technologies = () =>  (
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>
-      I'm a very interactive web developer with very good knowledge in javascript. <br />
-      I love solving challenging problems and advancing my skills.
-    </SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />
@@ -19,7 +15,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js, Next.js, Tailwind css, RESTful API, Git,
+            React.js, Next.js, Tailwind css .
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,7 +25,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Firebase
+            Firebase, Node.js, Express, mongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>

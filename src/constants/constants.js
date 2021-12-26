@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'checkref',
-    description: "Checkref is a digital automated reference checking tool. It simplifies and streamlines, the reference checking process thereby increasing the validity and compliance of your Employee reference checks.",
+    description: "Completed the frontend of this digital automated reference checking tool. It simplifies and streamlines, the reference checking process thereby increasing the validity and compliance of your Employee reference checks.",
       image: '/images/1.png',
       tags: ['React', 'Next.js'],
     source: 'https://checkref.co/',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Fintech',
-    description:"This project helps you send money, save money, make seamless payments and access credit anywhere and everytime. the website is fully responsive and beautiful",
+    description:"Contributed in this project built by a team, this project helps you send money, save money, make seamless payments and access credit anywhere and everytime. the website is fully responsive and beautiful.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript', 'Tailwind'],
     source: 'https://moyalo.ng/',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Burger Builder',
-    description: "This is a burger builder project i built using react and firebase , it's all about building or creating your burger with the spices you need and order for delivery",
+    description: "This is a burger builder project i built using react and firebase , it's all about building or creating your burger with the spices you need and order for delivery.",
       image: '/images/3.png',
       tags: ['React', 'Firebase'],
     source: 'https://react-my-burger-d46de.web.app/',
