@@ -48,10 +48,18 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I'm a  Knowledgeable Front End Developer adept at creating
-          successful websites that meet customer needs. Specializing in
-          collaborating with effectual customers to gather requirements,
-           produce plans and improve designs for usability and functionality. Fully proficient in React, Javascript and CSS.
+          Agile Software Engineer
+          talented at contributing to
+          multi-team development
+          projects. Collaborative
+          designer of exceptionally
+          useful solutions and perfectly
+          customized products.
+          Knowledgeable in
+          programming environments
+          ranging from Frontend to
+          Backend .
+
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll} >
         <>

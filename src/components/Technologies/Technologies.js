@@ -25,7 +25,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Firebase, Node.js, Express, mongoDB
+            Firebase, Node, Express, mongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
