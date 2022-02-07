@@ -9,13 +9,13 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Fintech',
-    description:"Contributed in this project built by a team, this project helps you send money, save money, make seamless payments and access credit anywhere and everytime. the website is fully responsive and beautiful.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript', 'Tailwind'],
-    source: 'https://moyalo.ng/',
-    visit: 'https://moyalo.ng/',
-    id: 1,
+    // title: 'Fintech',
+    // description:"Contributed in this project built by a team, this project helps you send money, save money, make seamless payments and access credit anywhere and everytime. the website is fully responsive and beautiful.",
+    // image: '/images/2.png',
+    // tags: ['React', 'JavaScript', 'Tailwind'],
+    // source: 'https://moyalo.ng/',
+    // visit: 'https://moyalo.ng/',
+    // id: 1,
   },
   {
     title: 'Burger Builder',
@@ -24,7 +24,7 @@ export const projects = [
       tags: ['React', 'Firebase'],
     source: 'https://react-my-burger-d46de.web.app/',
     visit: 'https://react-my-burger-d46de.web.app/',
-    id: 2,
+    id: 1,
   },
   {
     title: 'Unichat',
@@ -33,7 +33,7 @@ export const projects = [
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://k-unichat.netlify.app/',
     visit: 'https://k-unichat.netlify.app/',
-    id: 3,
+    id: 2,
   },
 ];
 
