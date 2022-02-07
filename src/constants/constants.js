@@ -8,15 +8,7 @@ export const projects = [
     visit: 'https://checkref.co/',
     id: 0,
   },
-  {
-    // title: 'Fintech',
-    // description:"Contributed in this project built by a team, this project helps you send money, save money, make seamless payments and access credit anywhere and everytime. the website is fully responsive and beautiful.",
-    // image: '/images/2.png',
-    // tags: ['React', 'JavaScript', 'Tailwind'],
-    // source: 'https://moyalo.ng/',
-    // visit: 'https://moyalo.ng/',
-    // id: 1,
-  },
+  
   {
     title: 'Burger Builder',
     description: "This is a burger builder project i built using react and firebase , it's all about building or creating your burger with the spices you need and order for delivery.",
