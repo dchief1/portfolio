@@ -30,7 +30,7 @@ const RightHeader = () => {
       <SocialIcons href="https://www.linkedin.com/in/emmanuel-igwesi-7b07461b2/">
         <AiFillLinkedin size="2rem" />
       </SocialIcons>
-      <SocialIcons href="https://twitter.com/_Dchief">
+      <SocialIcons href="https://twitter.com/kctechie">
         <AiFillTwitterCircle size="2rem" />
       </SocialIcons>
     </Div3> 
