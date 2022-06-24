@@ -8,7 +8,7 @@ const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
 
 const Timeline = () => {
   const [activeItem, setActiveItem] = useState(0);
-  const carouselRef = useRef();
+  const carouselRef = useRef(); 
 
   const scroll = (node, left) => {
     return node.scrollTo({ left, behavior: 'smooth' });
@@ -48,17 +48,10 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-          Agile Software Engineer
-          talented at contributing to
-          multi-team development
-          projects. Collaborative
-          designer of exceptionally
-          useful solutions and perfectly
-          customized products.
-          Knowledgeable in
-          programming environments
-          ranging from Frontend to
-          Backend .
+          I'm a passionate web developer with 3 years of experience in
+          web development. Great team player with an eye for details. 
+          Aiming to leverage a proven knowledge of software engineering skills 
+          to successfully fill the role at your company.
 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll} >
