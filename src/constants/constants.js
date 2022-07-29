@@ -18,6 +18,26 @@ export const projects = [
     visit: 'https://swalo.netlify.app/',
     id: 1,
   },
+
+  {
+    title: 'Midl Man',
+    description: "I added animations to the page, used redux to manage state. ",
+      image: '/images/5.png',
+      tags: ['Next.js', 'Redux', 'Tailwind css'],
+    source: '',
+    visit: 'https://www.themidlman.com/',
+    id: 2,
+  },
+
+  {
+    title: 'Moyalo',
+    description: "I'm the lead frontend developer working on this project, the project is still in view and will be completed soon",
+      image: '/images/6.png',
+      tags: ['React', 'Tailwind css'],
+    source: '',
+    visit: 'https://moyalo.ng/',
+    id: 3,
+  },
  
 ];
 
