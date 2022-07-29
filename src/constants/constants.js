@@ -31,7 +31,7 @@ export const projects = [
 
   {
     title: 'Moyalo',
-    description: "I'm the lead frontend developer working on this project, the project is still in view and will be completed soon",
+    description: "Moyalo is a financial service Company, a result solving platform built with react. ",
       image: '/images/6.png',
       tags: ['React', 'Tailwind css'],
     source: '',
